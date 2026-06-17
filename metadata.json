@@ -1,0 +1,6 @@
+{
+  "name": "VisionGuard-AI",
+  "description": "Video Analytics Alert Intelligence System for CCTV and security camera frame analysis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
